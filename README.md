@@ -5,4 +5,4 @@
 * :toolbox: I use daily [_**PHP**_](https://www.php.net/), [_**Laravel**_](https://laravel.com/), [**_VueJS_**](https://vuejs.org/), [**_InertiaJS_**](https://inertiajs.com/), [**_TailwindCSS_**](https://tailwindcss.com/)
 * :earth_asia: I'm mostly active within the **Laravel Community**
 * :speech_balloon: Ping me about _Web Design and Development_
-* :mailbox_with_mail: Reach me at Twitter: [@luigircruz](https://twitter.com/luigircruz)
+* :mailbox_with_mail: Reach me at Twitter: ![Twitter Follow](https://img.shields.io/twitter/follow/luigircruz?label=%40luigircruz&style=social)
