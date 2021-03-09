@@ -1,5 +1,7 @@
 # Welcome!
 
+## I'm a software developer from Makati City, Philippines
+
 ![](coding.gif)
 
-### I'm a software developer from Makati City, Philippines
+Photo by [Memecandy](https://giphy.com/memecandy) on [Giphy](https://giphy.com/)
