@@ -4,4 +4,4 @@
 
 ![](coding.gif)
 
-Photo by [Memecandy](https://giphy.com/memecandy) on [Giphy](https://giphy.com/)
+GIF by [Memecandy](https://giphy.com/memecandy) on [Giphy](https://giphy.com/)
