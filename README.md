@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm a software developer from Makati City, Philippines
+## I'm a software developer from the Philippines
 
 ![](coding.gif)
 
